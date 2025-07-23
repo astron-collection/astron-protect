@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/Sky-Genesis-Enterprise/astron-protect#readme",
   "dependencies": {
-    "discord.js": "^14.19.3"
+    "discord.js": "^14.19.3",
+    "dotenv": "^17.2.0",
+    "fs": "^0.0.1-security"
   }
 }
